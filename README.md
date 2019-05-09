@@ -23,3 +23,5 @@ Bellow is a list of the resources used to complete this project:
 * [Jasmine cheatsheet](https://devhints.io/jasmine)
 * [Stackoverflow: Test for click event using Jasmine test suite](https://stackoverflow.com/questions/16890618/test-for-click-event-using-jasmine-test-suite)
 * [scriptverse blog post: Spies: spyOn(), and.callThrough(), and.returnValue(), and.callFake()](https://scriptverse.academy/tutorials/jasmine-spyon.html)
+* [Check if a JavaScript string is a URL](https://stackoverflow.com/questions/5717093/check-if-a-javascript-string-is-a-url)
+* [Check if an element contains a class in JavaScript?](https://stackoverflow.com/questions/5898656/check-if-an-element-contains-a-class-in-javascript)
